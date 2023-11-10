@@ -7,4 +7,4 @@ hello ShangHao! hello Git!
 hello ShangHao! hello Git!
 hello ShangHao! hello Git!
 hello ShangHao! hello Git!
-hello ShangHao! hello Git!
+hello ShangHao! hello Git! hot-fox test
